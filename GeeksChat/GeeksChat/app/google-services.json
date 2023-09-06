@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012201232751",
+    "project_id": "geekschatdb",
+    "storage_bucket": "geekschatdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012201232751:android:82263de4f983acedc8709a",
+        "android_client_info": {
+          "package_name": "com.example.geekschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012201232751-aqcfriah8ek2leg6ifivkvo3f2enpa2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geekschat",
+            "certificate_hash": "c599a6c7493fe3bcba9752aaeffbbe5258a65b8e"
+          }
+        },
+        {
+          "client_id": "1012201232751-vjs69ttj6d8cqafcau9i53pbpomul294.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGXJk07_Sd9tMTB6gVglXrKk0Zif3mZzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012201232751-vjs69ttj6d8cqafcau9i53pbpomul294.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

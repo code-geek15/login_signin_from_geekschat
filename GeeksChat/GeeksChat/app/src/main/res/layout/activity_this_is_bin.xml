@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ThisIsBin">
+
+</android.support.constraint.ConstraintLayout>
+    <!--First Login-->
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<android.support.constraint.ConstraintLayout-->
+<!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--xmlns:tools="http://schemas.android.com/tools"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="match_parent"-->
+<!--android:orientation="vertical"-->
+<!--android:padding="16dp"-->
+<!--android:background="#00BF63"-->
+<!--tools:context=".MainActivity">-->
+
+<!--<ImageView-->
+<!--    android:id="@+id/imageView"-->
+<!--    android:layout_width="259dp"-->
+<!--    android:layout_height="213dp"-->
+<!--    android:layout_marginTop="96dp"-->
+<!--    app:layout_constraintEnd_toEndOf="parent"-->
+<!--    app:layout_constraintHorizontal_bias="0.592"-->
+<!--    app:layout_constraintStart_toStartOf="parent"-->
+<!--    app:layout_constraintTop_toTopOf="parent"-->
+<!--    app:srcCompat="@drawable/geekschatlogo" />-->
+
+<!--<Button-->
+<!--    android:id="@+id/loginButton"-->
+<!--    android:layout_width="259dp"-->
+<!--    android:layout_height="44dp"-->
+<!--    android:layout_marginTop="92dp"-->
+<!--    android:background="@drawable/rounded_button"-->
+<!--    android:text="Login"-->
+<!--    android:textColor="#000000"-->
+<!--    app:layout_constraintEnd_toEndOf="parent"-->
+<!--    app:layout_constraintHorizontal_bias="0.578"-->
+<!--    app:layout_constraintStart_toStartOf="parent"-->
+<!--    app:layout_constraintTop_toBottomOf="@+id/imageView" />-->
+
+<!--<Button-->
+<!--    android:id="@+id/signupButton"-->
+<!--    android:layout_width="265dp"-->
+<!--    android:layout_height="43dp"-->
+<!--    android:layout_marginTop="16dp"-->
+<!--    android:background="@drawable/rounded_button"-->
+<!--    android:text="Sign Up"-->
+<!--    android:textColor="#000000"-->
+<!--    app:layout_constraintEnd_toEndOf="parent"-->
+<!--    app:layout_constraintHorizontal_bias="0.582"-->
+<!--    app:layout_constraintStart_toStartOf="parent"-->
+<!--    app:layout_constraintTop_toBottomOf="@+id/loginButton" />-->
+
+<!--<TextView-->
+<!--    android:id="@+id/forgetPasswordText"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:layout_marginTop="4dp"-->
+<!--    android:text="Forget Password?"-->
+<!--    android:textColor="#000000"-->
+<!--    app:layout_constraintEnd_toEndOf="parent"-->
+<!--    app:layout_constraintHorizontal_bias="0.536"-->
+<!--    app:layout_constraintStart_toStartOf="parent"-->
+<!--    app:layout_constraintTop_toBottomOf="@+id/signupButton" />-->
+<!--    dependencies {-->
+
+<!--    implementation 'com.android.support:appcompat-v7:28.0.0'-->
+<!--    implementation 'com.android.support.constraint:constraint-layout:2.0.4'-->
+<!--    implementation 'com.android.support:design:28.0.0'-->
+<!--    implementation 'com.android.support:support-annotations:28.0.0'-->
+<!--    implementation 'android.arch.lifecycle:livedata:1.1.1'-->
+<!--    implementation 'android.arch.lifecycle:viewmodel:1.1.1'-->
+<!--    testImplementation 'junit:junit:4.13.2'-->
+<!--    androidTestImplementation 'com.android.support.test:runner:1.0.2'-->
+<!--    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'-->
+<!--    }-->
+
+<!--</android.support.constraint.ConstraintLayout>-->
